@@ -1,1 +1,1 @@
-# Word_Scramble_Game
+A fun console-based word scramble game written in C++. The game randomly selects a word, scrambles its letters, and challenges the player to guess the original word within a limited number of attempts.# Word_Scramble_Game
